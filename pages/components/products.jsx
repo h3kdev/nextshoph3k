@@ -45,7 +45,7 @@ export default function Products() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
 
 
-                    <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                    <div className="w-full lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
                         <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
                         <div className="mx-4 my-4 md:my-8">
                             <div>★★★★★</div>
