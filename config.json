@@ -1,0 +1,5 @@
+{
+    "settings": {
+        "databaseURL": "mongodb+srv://h3k:keskinemre35@fortuneminer.pkjp1y0.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
