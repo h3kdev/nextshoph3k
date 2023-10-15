@@ -57,6 +57,78 @@ export default function Products() {
                         </div>
                     </div>
 
+                                        <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                        <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
+                        <div className="mx-4 my-4 md:my-8">
+                            <div>★★★★★</div>
+                            <div className="mt-2">
+                                <div className="font-semibold text-sm text-blue-600">T-Shirt</div>
+                                <div className="font-medium mt-1">Deneme Ürün Başlığı</div>
+                            </div>
+                            <div className="mt-3 font-bold text-xl text-blue-600">000 TL</div>
+                        </div>
+                    </div>
+
+                                        <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                        <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
+                        <div className="mx-4 my-4 md:my-8">
+                            <div>★★★★★</div>
+                            <div className="mt-2">
+                                <div className="font-semibold text-sm text-blue-600">T-Shirt</div>
+                                <div className="font-medium mt-1">Deneme Ürün Başlığı</div>
+                            </div>
+                            <div className="mt-3 font-bold text-xl text-blue-600">000 TL</div>
+                        </div>
+                    </div>
+
+                                        <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                        <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
+                        <div className="mx-4 my-4 md:my-8">
+                            <div>★★★★★</div>
+                            <div className="mt-2">
+                                <div className="font-semibold text-sm text-blue-600">T-Shirt</div>
+                                <div className="font-medium mt-1">Deneme Ürün Başlığı</div>
+                            </div>
+                            <div className="mt-3 font-bold text-xl text-blue-600">000 TL</div>
+                        </div>
+                    </div>
+
+                                        <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                        <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
+                        <div className="mx-4 my-4 md:my-8">
+                            <div>★★★★★</div>
+                            <div className="mt-2">
+                                <div className="font-semibold text-sm text-blue-600">T-Shirt</div>
+                                <div className="font-medium mt-1">Deneme Ürün Başlığı</div>
+                            </div>
+                            <div className="mt-3 font-bold text-xl text-blue-600">000 TL</div>
+                        </div>
+                    </div>
+
+                                        <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                        <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
+                        <div className="mx-4 my-4 md:my-8">
+                            <div>★★★★★</div>
+                            <div className="mt-2">
+                                <div className="font-semibold text-sm text-blue-600">T-Shirt</div>
+                                <div className="font-medium mt-1">Deneme Ürün Başlığı</div>
+                            </div>
+                            <div className="mt-3 font-bold text-xl text-blue-600">000 TL</div>
+                        </div>
+                    </div>
+
+                                        <div className="w-[22rem] lg:w-[19rem] h-[32rem] bg-slate-200/50 rounded-xl">
+                        <div className="w-full h-[20rem] bg-slate-200 rounded-xl"></div>
+                        <div className="mx-4 my-4 md:my-8">
+                            <div>★★★★★</div>
+                            <div className="mt-2">
+                                <div className="font-semibold text-sm text-blue-600">T-Shirt</div>
+                                <div className="font-medium mt-1">Deneme Ürün Başlığı</div>
+                            </div>
+                            <div className="mt-3 font-bold text-xl text-blue-600">000 TL</div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
