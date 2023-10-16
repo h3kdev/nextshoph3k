@@ -1,9 +1,6 @@
-import { BiSearch, BiUser } from 'react-icons/bi';
-import { Menu } from '@headlessui/react';
-import { useState } from 'react';
+import { BiSearch, BiUser } from 'react-icons/bi';
 
 export default function Navbar() {
-  const [isSearchOpen, setSearchOpen] = useState(false);
 
   return (
     <Menu>
